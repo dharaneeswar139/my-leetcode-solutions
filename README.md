@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/dharaneeswar139/LeetCode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dharaneeswar139/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/dharaneeswar139/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [1406-stone-game-iii](https://github.com/dharaneeswar139/LeetCode/tree/master/1406-stone-game-iii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dharaneeswar139/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/dharaneeswar139/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1406-stone-game-iii](https://github.com/dharaneeswar139/LeetCode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dharaneeswar139/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dharaneeswar139/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/dharaneeswar139/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [1406-stone-game-iii](https://github.com/dharaneeswar139/LeetCode/tree/master/1406-stone-game-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -155,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/dharaneeswar139/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/dharaneeswar139/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
