@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/dharaneeswar139/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/dharaneeswar139/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0563-binary-tree-tilt](https://github.com/dharaneeswar139/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0700-search-in-a-binary-search-tree](https://github.com/dharaneeswar139/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dharaneeswar139/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dharaneeswar139/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/dharaneeswar139/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/dharaneeswar139/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0563-binary-tree-tilt](https://github.com/dharaneeswar139/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0700-search-in-a-binary-search-tree](https://github.com/dharaneeswar139/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dharaneeswar139/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dharaneeswar139/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Game Theory
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/dharaneeswar139/LeetCode/tree/master/0563-binary-tree-tilt) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/dharaneeswar139/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
