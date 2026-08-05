@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/dharaneeswar139/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dharaneeswar139/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dharaneeswar139/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/dharaneeswar139/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/dharaneeswar139/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dharaneeswar139/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dharaneeswar139/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/dharaneeswar139/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## DP on Trees
 |  |
 | ------- |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dharaneeswar139/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/dharaneeswar139/LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
