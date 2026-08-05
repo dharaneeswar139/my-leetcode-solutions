@@ -1,23 +1,26 @@
-class Solution:
+class Solution: # O(n+i) TC, O(n+i) SC
     def remainingMethods(self, n: int, k: int, invocations: List[List[int]]) -> List[int]:
-        adj = {i: [] for i in range(n)}
-        for src, dst in invocations:
-            adj[src].append(dst)
+        adj = [[] for _ in range(n)]
+        for u, v in invocations:
+            adj[u].append(v)
+        
+        suspicious = [False]*n
+        suspicious[k] = True
 
-        q = [k]
-        visited = set([k])
+        q = deque([k])
         while q:
-            suspicious = q.pop()
-            for neighbor in adj[suspicious]:
-                if neighbor not in visited:
-                    visited.add(neighbor)
-                    q.append(neighbor)
-                    
-        ans = []
-        for method in range(n):
-            if method in visited: continue
-            for neighbor in adj[method]:
-                if neighbor in visited:
-                    return list(range(n))
-            ans.append(method)
-        return ans
+            u = q.popleft()
+            for v in adj[u]:
+                if not suspicious[v]:
+                    suspicious[v] = True
+                    q.append(v)
+
+        for u, v in invocations:
+            if not suspicious[u] and suspicious[v]:
+                return list(range(n))
+        return [i for i in range(n) if not suspicious[i]]  
+
+
+
+
+        
