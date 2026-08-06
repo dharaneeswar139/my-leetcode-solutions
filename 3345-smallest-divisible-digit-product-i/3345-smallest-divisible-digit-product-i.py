@@ -1,15 +1,14 @@
 class Solution:
     def smallestNumber(self, n: int, t: int) -> int:
-        def dipd(n):
+        def pd(num):
             p=1
-            while n:
-                p*=n%10
-                n//=10
+            while num:
+                p*=num%10
+                num//=10
             return p
         while True:
-            if dipd(n)%t==0:
+            if pd(n)%t==0:
                 return n
             n+=1
-
 
         
