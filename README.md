@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dharaneeswar139/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dharaneeswar139/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dharaneeswar139/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dharaneeswar139/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dharaneeswar139/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dharaneeswar139/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dharaneeswar139/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -68,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/dharaneeswar139/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dharaneeswar139/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dharaneeswar139/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dharaneeswar139/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dharaneeswar139/LeetCode/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dharaneeswar139/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dharaneeswar139/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dharaneeswar139/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dharaneeswar139/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/dharaneeswar139/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1406-stone-game-iii](https://github.com/dharaneeswar139/LeetCode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dharaneeswar139/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Linked List
 |  |
 | ------- |
