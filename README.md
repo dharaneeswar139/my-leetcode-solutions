@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dharaneeswar139/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1563-stone-game-v](https://github.com/dharaneeswar139/LeetCode/tree/master/1563-stone-game-v) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/dharaneeswar139/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1872-stone-game-viii](https://github.com/dharaneeswar139/LeetCode/tree/master/1872-stone-game-viii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dharaneeswar139/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dharaneeswar139/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dharaneeswar139/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/dharaneeswar139/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dharaneeswar139/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/dharaneeswar139/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/dharaneeswar139/LeetCode/tree/master/1872-stone-game-viii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dharaneeswar139/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dharaneeswar139/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dharaneeswar139/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/dharaneeswar139/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dharaneeswar139/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/dharaneeswar139/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/dharaneeswar139/LeetCode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dharaneeswar139/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Linked List
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/dharaneeswar139/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dharaneeswar139/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/dharaneeswar139/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/dharaneeswar139/LeetCode/tree/master/1872-stone-game-viii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -282,15 +286,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/dharaneeswar139/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/dharaneeswar139/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/dharaneeswar139/LeetCode/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/dharaneeswar139/LeetCode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/dharaneeswar139/LeetCode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/dharaneeswar139/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/dharaneeswar139/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/dharaneeswar139/LeetCode/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
