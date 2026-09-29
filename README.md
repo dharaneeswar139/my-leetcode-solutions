@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dharaneeswar139/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/dharaneeswar139/LeetCode/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dharaneeswar139/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dharaneeswar139/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dharaneeswar139/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dharaneeswar139/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dharaneeswar139/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/dharaneeswar139/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/dharaneeswar139/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/dharaneeswar139/LeetCode/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dharaneeswar139/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dharaneeswar139/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dharaneeswar139/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Linked List
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dharaneeswar139/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/dharaneeswar139/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/dharaneeswar139/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Minimax
@@ -367,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/dharaneeswar139/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dharaneeswar139/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
